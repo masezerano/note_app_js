@@ -7,6 +7,9 @@ a browser.
 
 
 ## Initializing Node Project
+- `npm init`: initializes Node Project
 
-- `npm init`
+### installing and un
+- `npm install package name`
+- `npm unistall package name`
 
